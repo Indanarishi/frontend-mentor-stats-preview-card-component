@@ -15,7 +15,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-![](./images/overview.png)
+![](./overview.png)
 
 ### The challenge
 
@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/overview.png)
+![](./overview.png)
 
 ### Links
 
